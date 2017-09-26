@@ -1,7 +1,5 @@
 Hello to all
-<<<<<<< HEAD
 Edit from me
-Hello again
-=======
-Edit from remote
->>>>>>> 58708d22c1d7c967357f59fa0092e79c61cbbea9
+Hello again 
+Ok Edit from remote
+
